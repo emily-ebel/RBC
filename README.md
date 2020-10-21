@@ -25,7 +25,7 @@ growth_df.csv
 
 ## (2) RBC phenotype data  
 
-(a) donor age, donor sex, Advia (CBC) ektacytometry summary statistics 
+####(a) donor age, donor sex, Advia (CBC) ektacytometry summary statistics 
 
 data_unnorm.csv 
 
@@ -34,7 +34,7 @@ median_normalization.R  -->
 data_norm.csv 
 
 
-(b) osmotic fragility
+####(b) osmotic fragility
 
 raw_OF_data.csv
 
@@ -45,7 +45,7 @@ osmo50_unnorm.csv
 osmo50_norm.csv
 
 
-(c) ektacytometry 
+####(c) ektacytometry 
 
 raw_ekta_data.csv
 
