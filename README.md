@@ -63,8 +63,6 @@ plot_normalized_ekta.R
 
 ## (3) LASSO files 
 
-varinfo.csv
-
 growth_geno.csv
 
 invasion_geno.csv
