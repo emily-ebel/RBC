@@ -1,11 +1,12 @@
 # RBC
 
-This repository contains data and code related to the manuscript "Common host variation drives malaria parasite fitness in healthy human red cells," currently available on bioRxiv at https://www.biorxiv.org/content/10.1101/2020.10.08.332494v2.
+This repository contains data and code related to the manuscript "Common host variation drives malaria parasite fitness in healthy human red cells," now published at eLife (https://elifesciences.org/articles/69808).
 
 All phenotypic data were normalized to correct for weekly batch effects. The raw and normalized data, as well as the normalization scripts, are provided. Example input data and scripts are also provided to run Lasso in R. 
 
-Raw sequence data are available in the Sequence Read Archive (SRA) under BioProject accession number PRJNA683732.
+Raw Illumina sequence data are available in the Sequence Read Archive (SRA) under BioProject accession number PRJNA683732.
 
+Raw Sanger data and genotype calls for PIEZO1 E756del can be downloaded as a .zip file. This locus was amplified using primers described in Nguetse et al., 2020 (https://www.pnas.org/doi/abs/10.1073/pnas.1919843117).
 
 Any questions? Contact Emily Ebel at ebel@stanford.edu.
 
@@ -68,3 +69,8 @@ growth_geno.csv
 invasion_geno.csv
 
 Lasso target.R
+
+
+## (4) Sanger data for PIEZO1 E756del
+
+PIEZO1-E756del-Sanger.zip
